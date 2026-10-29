@@ -7,5 +7,6 @@
 # Installation:
 Il suffit juste de glisser le dossier OMSI 2 à la racine du dossier où est présent votre OMSI, ex: steamapps/common.
 
-Ce mod est protégé par une licence tout droits réservés.
-Kowzii (iwxbe) - 2026
+
+***Il est formellement INTERDIT de réupload ce mod en dehors de ses canaux officiels (Omsistuff)***<br>
+***Tous droits réservés - Kowzi - 2026***
